@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "properties": {
+      "file": {
+        "type": "text"
+      },
+      "line": {
+        "type": "text"
+      },
+      "log_level": {
+        "type": "text"
+      },
+      "log_message": {
+        "type": "text"
+      },
+      "message": {
+        "type": "text"
+      },
+      "path": {
+        "type": "text"
+      }
+    }
+  }
+}
